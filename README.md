@@ -40,7 +40,7 @@ The E-CELL website is built using the following technologies:
 ### Getting Started
 To get a local copy of the E-CELL website up and running on your machine, follow these steps:
 
-- Clone this repository: git clone https://github.com/your-username/e-cell-website.git
+- Clone this repository: git clone https://github.com/anonymousknight07/e-cell-website.git
 
 - Navigate to the project directory: cd e-cell-website
 
