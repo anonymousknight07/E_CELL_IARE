@@ -70,9 +70,9 @@ The E-CELL website is released under the MIT License. You are free to use, modif
 # Contact
 For any further information or inquiries, you can reach out to us at:
 
-# Email: 
+## Email: 
 - ecell@iare.ac.in
-# E-CELL Website: 
+## E-CELL Website: 
 - Website link paste here
 
 Thank you for your interest in the E-CELL website! We hope it provides valuable resources and inspiration to aspiring entrepreneurs.
