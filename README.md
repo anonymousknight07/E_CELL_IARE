@@ -1,5 +1,5 @@
 # E-CELL Website
-Welcome to the E-CELL website repository! This repository contains the source code and files for the E-CELL website developed by Akshat Pandey and Gaurang . The E-CELL website is a platform dedicated to promoting entrepreneurship and providing resources for aspiring entrepreneurs.
+Welcome to the E-CELL website repository! This repository contains the source code and files for the E-CELL website developed by [Akshat Pandey](https://www.linkedin.com/in/akshat-pandey-5a2107228/) and [Gaurang Ratnaparkhi](www.linkedin.com/in/gaurang-ratnaparkhi). The E-CELL website is a platform dedicated to promoting entrepreneurship and providing resources for aspiring entrepreneurs.
 
 # Features
 ### Homepage: 
