@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel=”stylesheet” href=”https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css”rel=”nofollow” 
-    integrity=”sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm” crossorigin=”anonymous”>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
     <title>E-Cell IARE</title>
 </head>
@@ -20,27 +23,71 @@
             contact/footer
     -->
 
-    <section class="navbar" >
-        <header class="nav-content">
-            <a href="#home"><img src="" alt="addlogohere"></a>
-            <nav>
-                <ul class="nav-links">
-                    <li><a href="#events">Events</a></li>
-                    <li><a href="#testimonies">Success Stories</a></li>
-                    <li><a href="#resources">Resources</a></li>
-                    <li><a href="#aboutus">About Us</a></li>
-                </ul>
-            </nav>
-        </header>
-
+    <nav class="navbar">
+        <div class="container ">
+            <a href="" class="navbar-brand">
+                <img src="" alt="logo">
+            </a>
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                
+                
+                  </ul>
+        </div>
+    </nav>
+    <section class="landing" id="home">
+        
     </section>
-    <section class="landing" id="home"></section>
     <section class="event" id="events"></section>
     <section class="testimonies" id="testimonies"></section>
     <section class="resource" id="resources"></section>
     <section class="aboutus"></section>
-    <section class="footer" id="aboutus"></section>
+    
+    
+    
+    
+    
+    
+    
+    
+    <section class="footer" id="aboutus">
+        <div class=”footer-content”>
+            <h3 class="footer-heading">E-Cell IARE</h3>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Harum cum ut eos, suscipit debitis velit vitae a ducimus eius ipsa, voluptates odit ipsam molestias. 
+                Voluptas, ipsum. Corrupti ducimus nam assumenda.
+            </p>
+            
+            <ul class="socials">
+                <li><a href="https://twitter.com/ecell_iare"><i class="fa-3x fa-twitter"></i></a></li>
+                <li><a href="https://www.linkedin.com/company/ecell-iare/"><i class="fa-3x fa-linkedin-square"></i></a></li>
+                <li><a href="https://www.instagram.com/ecelliare/"><i class="fa-3x fa-instagram"></i></a></li>
+            </ul>
 
+            <div class="contact">
+                <h5>Contact Us</h5>
+                <form>
+                    <fieldset class="form-group">
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <textarea class="form-control" id="exampleMessage" placeholder="Message"></textarea>
+                    </fieldset>
+                    <fieldset class="form-group text-xs-right">
+                        <button type="button" class="btn btn-secondary-outline btn-lg">Send</button>
+                    </fieldset>
+                </form>
+            </div>
 
+            <div class="footer-bottom">
+                <p>copyright &copy;2023 E-Cell IARE.</p>
+            </div>
+
+        </div>
+
+    </section>
 </body>
 </html>

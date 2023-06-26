@@ -1,7 +1,5 @@
 # E-CELL Website
-Welcome to the E-CELL website repository! This repository contains the source code and files for the E-CELL website developed by [Akshat Pandey](https://www.linkedin.com/in/akshat-pandey-5a2107228/) and [Gaurang Ratnaparkhi](https://www.linkedin.com/in/gaurangratnaparkhi). 
-
-The E-CELL website is a platform dedicated to promoting entrepreneurship and providing resources for aspiring entrepreneurs.
+Welcome to the E-CELL website repository! This repository contains the source code and files for the E-CELL website developed by Akshat Pandey and Gaurang . The E-CELL website is a platform dedicated to promoting entrepreneurship and providing resources for aspiring entrepreneurs.
 
 # Features
 ### Homepage: 
@@ -40,7 +38,7 @@ The E-CELL website is built using the following technologies:
 ### Getting Started
 To get a local copy of the E-CELL website up and running on your machine, follow these steps:
 
-- Clone this repository: git clone https://github.com/anonymousknight07/e-cell-website.git
+- Clone this repository: git clone https://github.com/your-username/e-cell-website.git
 
 - Navigate to the project directory: cd e-cell-website
 
@@ -70,9 +68,9 @@ The E-CELL website is released under the MIT License. You are free to use, modif
 # Contact
 For any further information or inquiries, you can reach out to us at:
 
-## Email: 
+# Email: 
 - ecell@iare.ac.in
-## E-CELL Website: 
+# E-CELL Website: 
 - Website link paste here
 
 Thank you for your interest in the E-CELL website! We hope it provides valuable resources and inspiration to aspiring entrepreneurs.
