@@ -21,28 +21,47 @@
             Resources
             About us
             contact/footer
+
     -->
 
-    <nav class="navbar d-flex justify-content-between">
+    
+
+    <nav class="navbar">
         <div class="container ">
-            <a href="#home" class="navbar-brand">
-                <img src="./logo2.ico" alt="logo" width="150em" height="150em">
+            <a href="" class="navbar-brand">
+                <img src="logo2.ico" alt="logo" width="150em" height="150em">
             </a>
-            <div class="navbar-nav flex-row justify-content-between ">
-                <a href="#events" class="nav-item nav-link active">Events</a>
-                <a href="#testimonies" class="nav-item nav-link">Success Stories</a>
-                <a href="#aboutus" class="nav-item nav-link">About Us</a>
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  <a class="nav-link" href="#">Link</a>
+                </li>
                 
-            </div>
+                
+                  </ul>
         </div>
     </nav>
     <section class="landing" id="home">
+        <div class="container">
+            <h1>E-CELL IARE -<span class="auto-type"></span></h1>
+
+        </div>
+        <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+        <script>
+            var typed = new Typed('.auto-type', {
+              strings: ["Entrepreneurship Cell","Startup Community","Job Creators"],
+              typeSpeed: 100,
+              backSpeed: 100,
+              loop: true
+            });
+          </script>
         
     </section>
     <section class="event" id="events"></section>
     <section class="testimonies" id="testimonies"></section>
     <section class="resource" id="resources"></section>
-    <section class="aboutus" id="aboutus"></section>
+    <section class="aboutus"></section>
     
     
     
