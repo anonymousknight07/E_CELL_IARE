@@ -18,7 +18,7 @@ html,body{
   height:100%;
   margin:0;
   padding:0;
-  font-family: 'librebaskerville-regular', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
 }
 
@@ -29,6 +29,7 @@ html,body{
   justify-content: space-between;
   align-items: center;
   background-color: #c3e0e2;
+  font-weight: bold;
 }
 
 .header .logo {
@@ -39,17 +40,18 @@ html,body{
   display: flex;
   gap: 4.8rem;
   list-style: none;
+  font-weight: bold;
 }
 
 .navbar-link:link,
 .navbar-link:visited {
   display: inline-block;
-  text-transform: uppercase;
+ 
   text-decoration: none;
-  font-size: 1.5rem;
-  font-weight: 500;
+  font-size: 1.2rem;
+  font-weight: 600;
   color: #1aa179;
-  font-family: 'librebaskerville-regular', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   transition: all 0.3s;
 }
 
@@ -205,7 +207,7 @@ nav ul li{
     font-size:5em;
     font-weight:700;
     text-align: center;
-    padding-top: 5em;
+    padding-top: 3em;
     font-family: 'Montserrat', sans-serif;
     color: rgb(26, 161, 121);
 
